@@ -1,6 +1,6 @@
 # DGLandlordsExercise
 
-###Running instructions
+### Running instructions
 For security reasons the connection string is not filled in.
 Fill the following placeholders in the DgCodeTestEntities connection string in LandlordPropertiesManager\LandlordPropertiesManager\App.config :
 - {{server_Name}} -> fill with server name
@@ -15,4 +15,5 @@ Fill the following placeholders in the DgCodeTestEntities connection string in L
  - Make Repository more generic
  - Add pagination to landlord list (don't bring all the data from the database)
  - Improve navigation between MainWindow and landlord list/add&edit property views
+ - more
 
