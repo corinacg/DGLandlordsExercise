@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandlordPropertiesManager", "LandlordPropertiesManager\LandlordPropertiesManager.csproj", "{CECAE921-70DD-476A-BD1E-2F95DBA1EA50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandlordPropertiesManager.Domain", "LandlordPropertiesManager.Domain\LandlordPropertiesManager.Domain.csproj", "{3E3FA64C-6D1D-445B-B2FF-43F8BDA6270E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECAE921-70DD-476A-BD1E-2F95DBA1EA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECAE921-70DD-476A-BD1E-2F95DBA1EA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECAE921-70DD-476A-BD1E-2F95DBA1EA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECAE921-70DD-476A-BD1E-2F95DBA1EA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3FA64C-6D1D-445B-B2FF-43F8BDA6270E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3FA64C-6D1D-445B-B2FF-43F8BDA6270E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3FA64C-6D1D-445B-B2FF-43F8BDA6270E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3FA64C-6D1D-445B-B2FF-43F8BDA6270E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {895EC349-B8B2-4819-9B38-9ACD0F6BEE01}
+	EndGlobalSection
+EndGlobal
